@@ -1,0 +1,2 @@
+# HelpPageGeneratorTest
+for testing helpPAgeGenerator
