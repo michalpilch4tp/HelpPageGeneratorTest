@@ -1,0 +1,27 @@
+{
+  "panels": {
+    "paytable": {
+      "name": "paytable",
+      "dataManagerPath": "../game/managers/settingsPanels/gamePaytableSettingsPanelDataManager",
+      "classNamePrefix": "paytable"
+    },
+    "gamerules": {
+      "name": "gamerules",
+      "dataManagerPath": "../F40Engine/managers/settingsPanels/gamerulesSettingsPanelDataManager",
+      "classNamePrefix": "gamerules"
+    }
+  },
+  "flags": [],
+  "variables": [],
+  "classes": [],
+  "symbols": {},
+  "enginePath": "../F40Engine",
+  "assetFilters": {
+    "include": ["**/*.png", "**/*.jpg"],
+    "exclude": ["spine/"]
+  },
+  "repos": {
+    "languages": "{USER}/{REPO}Languages",
+    "assets": "{USER}/{REPO}Images"
+  }
+}
